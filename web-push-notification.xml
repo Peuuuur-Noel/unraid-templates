@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/Peuuuur-Noel/unraid-web-push-notification/master/plugin/web-push-notification.plg</PluginURL>
+  <PluginAuthor>Peuuuur Noel</PluginAuthor>
+  <Beta>True</Beta>
+  <Category>Network:Other Plugins: Tools:System</Category>
+  <Name>Web Push Notification Agent</Name>
+  <Description>A plugin which adds browser push notification to Unraid. Works like other notification agents.</Description>
+  <Support>https://forums.unraid.net/</Support>
+  <IconFA>bell</IconFA>
+</Containers>
